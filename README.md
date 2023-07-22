@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Somesh Reddy
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning Frontend and JavaScript.
+- 🌱 I’m currently learning Frontend.
 - 📫 How to reach me someshthotireddy@gmail.com
 
 <!---
